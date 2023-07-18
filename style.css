@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background: LightBlue;
+    border: 9px solid MediumBlue;
+    border-radius: 15px;
+    padding: 10px;
+}
+header a {
+    text-decoration: none;
+    border: 3px solid MediumBlue;
+    border-radius: 5px;
+    color: navy;
+    padding: 2px;
+    background: DodgerBlue;
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+    padding: 2px;
+    background: rgb(7, 131, 255);
+    border-radius: 7px;
+}
+footer {
+    background: red;
+    padding: 5px;
+}
+footer p {
+    background: white;
+    border-radius: 4px;
+    padding: 3px;
+    margin: 6px;
+}
+nav a {
+    text-decoration: none;
+    color: royalblue;
+    border-radius: 5px;
+    border: 3px solid SlateBlue;
+    padding: 4px;
+    margin: 10px;
+    background: Aqua;
+}
+.imgfeer {
+    background: chocolate;
+    padding: 20px;
+    border-radius: 12px;
+}
+html {
+    font-size: 20px;
+}
+h2 {
+    color: rgb(171, 92, 245);
+}
+.imgborder {
+    border: 4px solid navy;
+    border-radius: 13px;
+}
+.aborder {
+    border: 4px solid navy;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px;
+}
